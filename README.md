@@ -2,4 +2,4 @@
 Hello people!
 
 Denis here, I like Bootstrap, React and Python.
-I shall make several project in the future. Let's begin!
+I'll make several projects in the future. Let's begin!
